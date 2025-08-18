@@ -45,3 +45,8 @@
 - Date: 2025-09-15
 - Feature: Add rate limiting and security
 - Status: Completed
+
+## feat: Create admin panel APIs
+- Date: 2025-08-18
+- Feature: Create admin panel APIs
+- Status: Completed
