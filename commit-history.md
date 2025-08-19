@@ -31,3 +31,4 @@
 29. Implement caching layer - 2025-10-13
 30. Add security headers - 2025-09-05
 31. Create deployment configuration - 2025-08-26
+32. Add database migrations - 2025-08-19
