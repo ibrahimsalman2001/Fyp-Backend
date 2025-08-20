@@ -55,3 +55,8 @@
 - Date: 2025-10-01
 - Feature: Create social sharing features
 - Status: Completed
+
+## feat: Add API versioning support
+- Date: 2025-08-20
+- Feature: Add API versioning support
+- Status: Completed
