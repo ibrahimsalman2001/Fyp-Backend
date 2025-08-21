@@ -45,3 +45,8 @@
 - Date: 2025-10-16
 - Feature: Implement data export functionality
 - Status: Completed
+
+## feat: Add user preferences management
+- Date: 2025-08-21
+- Feature: Add user preferences management
+- Status: Completed
