@@ -65,3 +65,8 @@
 - Date: 2025-09-27
 - Feature: Implement caching layer
 - Status: Completed
+
+## feat: Add containerization with Docker
+- Date: 2025-08-22
+- Feature: Add containerization with Docker
+- Status: Completed
