@@ -35,3 +35,8 @@
 - Date: 2025-09-06
 - Feature: Create weekly viewing trends
 - Status: Completed
+
+## feat: Add error handling middleware
+- Date: 2025-08-23
+- Feature: Add error handling middleware
+- Status: Completed
