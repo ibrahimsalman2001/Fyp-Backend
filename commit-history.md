@@ -13,3 +13,4 @@
 11. Add family monitoring support - 2025-10-01
 12. Create API routes for videos - 2025-09-04
 13. Add middleware for authentication - 2025-10-12
+14. Implement error handling - 2025-08-24
