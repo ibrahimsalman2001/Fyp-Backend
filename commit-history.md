@@ -39,3 +39,4 @@
 37. Implement content moderation - 2025-10-06
 38. Add analytics dashboard APIs - 2025-10-05
 39. Create recommendation engine - 2025-10-12
+40. Add social features - 2025-08-29
