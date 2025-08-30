@@ -20,3 +20,8 @@
 - Date: 2025-09-21
 - Feature: Create notification system
 - Status: Completed
+
+## feat: Add YouTube API integration
+- Date: 2025-08-30
+- Feature: Add YouTube API integration
+- Status: Completed
