@@ -17,3 +17,4 @@
 15. Add input validation - 2025-10-12
 16. Create database schemas - 2025-10-14
 17. Add environment configuration - 2025-09-28
+18. Implement rate limiting - 2025-09-01
