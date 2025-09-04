@@ -11,3 +11,4 @@
 9. Add content flagging functionality - 2025-09-28
 10. Implement goal tracking features - 2025-10-13
 11. Add family monitoring support - 2025-10-01
+12. Create API routes for videos - 2025-09-04
