@@ -30,3 +30,8 @@
 - Date: 2025-09-27
 - Feature: Add watch history parsing from HTML
 - Status: Completed
+
+## feat: Create weekly viewing trends
+- Date: 2025-09-06
+- Feature: Create weekly viewing trends
+- Status: Completed
