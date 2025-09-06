@@ -75,3 +75,8 @@
 - Date: 2025-10-09
 - Feature: Add internationalization support
 - Status: Completed
+
+## feat: Create mobile API endpoints
+- Date: 2025-09-06
+- Feature: Create mobile API endpoints
+- Status: Completed
