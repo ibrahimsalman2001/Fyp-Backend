@@ -60,3 +60,8 @@
 - Date: 2025-09-19
 - Feature: Create comprehensive test suite
 - Status: Completed
+
+## feat: Add load balancing support
+- Date: 2025-09-12
+- Feature: Add load balancing support
+- Status: Completed
