@@ -30,3 +30,8 @@
 - Date: 2025-09-20
 - Feature: Implement productivity score calculation
 - Status: Completed
+
+## feat: Add completion percentage tracking
+- Date: 2025-09-15
+- Feature: Add completion percentage tracking
+- Status: Completed
