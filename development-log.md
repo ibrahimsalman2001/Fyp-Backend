@@ -40,3 +40,8 @@
 - Date: 2025-08-21
 - Feature: Implement real-time dashboard updates
 - Status: Completed
+
+## feat: Add rate limiting and security
+- Date: 2025-09-15
+- Feature: Add rate limiting and security
+- Status: Completed
