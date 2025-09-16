@@ -70,3 +70,8 @@
 - Date: 2025-08-22
 - Feature: Add containerization with Docker
 - Status: Completed
+
+## feat: Create documentation and API docs
+- Date: 2025-09-16
+- Feature: Create documentation and API docs
+- Status: Completed
