@@ -25,3 +25,8 @@
 - Date: 2025-08-30
 - Feature: Add YouTube API integration
 - Status: Completed
+
+## feat: Implement productivity score calculation
+- Date: 2025-09-20
+- Feature: Implement productivity score calculation
+- Status: Completed
