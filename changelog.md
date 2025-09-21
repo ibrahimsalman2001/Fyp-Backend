@@ -15,3 +15,8 @@
 - Date: 2025-08-23
 - Feature: Add analytics service for dashboard metrics
 - Status: Completed
+
+## feat: Create notification system
+- Date: 2025-09-21
+- Feature: Create notification system
+- Status: Completed
