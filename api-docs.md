@@ -15,3 +15,8 @@
 - Date: 2025-08-21
 - Feature: Create video routes with CRUD operations
 - Status: Completed
+
+## feat: Add flagging system for inappropriate content
+- Date: 2025-09-22
+- Feature: Add flagging system for inappropriate content
+- Status: Completed
