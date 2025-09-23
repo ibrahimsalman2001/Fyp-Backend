@@ -40,3 +40,8 @@
 - Date: 2025-10-13
 - Feature: Create API validation schemas
 - Status: Completed
+
+## feat: Add backup and restore features
+- Date: 2025-09-23
+- Feature: Add backup and restore features
+- Status: Completed
