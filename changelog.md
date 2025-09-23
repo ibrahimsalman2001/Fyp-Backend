@@ -50,3 +50,8 @@
 - Date: 2025-09-28
 - Feature: Implement search and filtering
 - Status: Completed
+
+## feat: Add privacy and security settings
+- Date: 2025-09-23
+- Feature: Add privacy and security settings
+- Status: Completed
