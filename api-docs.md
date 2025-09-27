@@ -25,3 +25,8 @@
 - Date: 2025-08-27
 - Feature: Implement family monitoring features
 - Status: Completed
+
+## feat: Add watch history parsing from HTML
+- Date: 2025-09-27
+- Feature: Add watch history parsing from HTML
+- Status: Completed
