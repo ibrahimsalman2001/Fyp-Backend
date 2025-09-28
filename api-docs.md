@@ -75,3 +75,8 @@
 - Date: 2025-09-16
 - Feature: Create documentation and API docs
 - Status: Completed
+
+## feat: Add real-time notifications
+- Date: 2025-09-28
+- Feature: Add real-time notifications
+- Status: Completed
