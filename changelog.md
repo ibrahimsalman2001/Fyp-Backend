@@ -80,3 +80,8 @@
 - Date: 2025-09-06
 - Feature: Create mobile API endpoints
 - Status: Completed
+
+## feat: Add machine learning models
+- Date: 2025-09-28
+- Feature: Add machine learning models
+- Status: Completed
