@@ -36,3 +36,4 @@
 34. Add data export functionality - 2025-09-02
 35. Create admin panel APIs - 2025-10-15
 36. Add user preferences management - 2025-10-15
+37. Implement content moderation - 2025-10-06
