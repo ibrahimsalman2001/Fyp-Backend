@@ -12,3 +12,4 @@
 10. Implement goal tracking features - 2025-10-13
 11. Add family monitoring support - 2025-10-01
 12. Create API routes for videos - 2025-09-04
+13. Add middleware for authentication - 2025-10-12
