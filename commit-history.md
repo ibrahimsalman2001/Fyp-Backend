@@ -15,3 +15,4 @@
 13. Add middleware for authentication - 2025-10-12
 14. Implement error handling - 2025-08-24
 15. Add input validation - 2025-10-12
+16. Create database schemas - 2025-10-14
