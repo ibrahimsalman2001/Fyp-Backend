@@ -10,3 +10,8 @@
 - Date: 2025-09-13
 - Feature: Add Video model with classification schema
 - Status: Completed
+
+## feat: Add public authentication bypass
+- Date: 2025-10-15
+- Feature: Add public authentication bypass
+- Status: Completed
