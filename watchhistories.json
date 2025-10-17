@@ -1,0 +1,502 @@
+[
+  {
+    "_id": 1760656180805,
+    "userId": "1760656180804",
+    "videoId": 1760656180805,
+    "youtubeVideoId": "SCOKysMnH50",
+    "watchDuration": 467,
+    "videoDuration": 849,
+    "completionPercentage": 91,
+    "watchedAt": "2025-10-11T09:54:35.471Z"
+  },
+  {
+    "_id": 1760656180905,
+    "userId": "1760656180804",
+    "videoId": 1760656180806,
+    "youtubeVideoId": "umsrQSA2iOM",
+    "watchDuration": 1026,
+    "videoDuration": 1494,
+    "completionPercentage": 5,
+    "watchedAt": "2025-09-18T05:59:12.775Z"
+  },
+  {
+    "_id": 1760656181005,
+    "userId": "1760656180804",
+    "videoId": 1760656180807,
+    "youtubeVideoId": "3xthNeGZa0k",
+    "watchDuration": 1372,
+    "videoDuration": 1609,
+    "completionPercentage": 15,
+    "watchedAt": "2025-09-25T13:40:05.015Z"
+  },
+  {
+    "_id": 1760656181105,
+    "userId": "1760656180804",
+    "videoId": 1760656180808,
+    "youtubeVideoId": "9sekgEXGm-E",
+    "watchDuration": 1342,
+    "videoDuration": 1713,
+    "completionPercentage": 34,
+    "watchedAt": "2025-09-19T00:27:14.500Z"
+  },
+  {
+    "_id": 1760656181205,
+    "userId": "1760656180804",
+    "videoId": 1760656180809,
+    "youtubeVideoId": "3xthNeGZa0k",
+    "watchDuration": 17,
+    "videoDuration": 115,
+    "completionPercentage": 16,
+    "watchedAt": "2025-09-28T18:46:11.681Z"
+  },
+  {
+    "_id": 1760656181305,
+    "userId": "1760656180804",
+    "videoId": 1760656180810,
+    "youtubeVideoId": "9sekgEXGm-E",
+    "watchDuration": 147,
+    "videoDuration": 179,
+    "completionPercentage": 62,
+    "watchedAt": "2025-09-27T12:53:33.233Z"
+  },
+  {
+    "_id": 1760656181405,
+    "userId": "1760656180804",
+    "videoId": 1760656180811,
+    "youtubeVideoId": "TrPvQvbp3Cg",
+    "watchDuration": 1013,
+    "videoDuration": 1700,
+    "completionPercentage": 83,
+    "watchedAt": "2025-10-11T17:08:43.028Z"
+  },
+  {
+    "_id": 1760656181505,
+    "userId": "1760656180804",
+    "videoId": 1760656180812,
+    "youtubeVideoId": "QH-87ZXQ2pw",
+    "watchDuration": 886,
+    "videoDuration": 917,
+    "completionPercentage": 57,
+    "watchedAt": "2025-10-01T23:35:37.465Z"
+  },
+  {
+    "_id": 1760656181605,
+    "userId": "1760656180804",
+    "videoId": 1760656180813,
+    "youtubeVideoId": "IdML5RUzx34",
+    "watchDuration": 260,
+    "videoDuration": 973,
+    "completionPercentage": 21,
+    "watchedAt": "2025-09-22T21:29:52.462Z"
+  },
+  {
+    "_id": 1760656181705,
+    "userId": "1760656180804",
+    "videoId": 1760656180814,
+    "youtubeVideoId": "m-lwVG1Kax8",
+    "watchDuration": 179,
+    "videoDuration": 362,
+    "completionPercentage": 36,
+    "watchedAt": "2025-09-20T21:00:38.412Z"
+  },
+  {
+    "_id": 1760656181805,
+    "userId": "1760656180804",
+    "videoId": 1760656180815,
+    "youtubeVideoId": "c20XsM9BWEM",
+    "watchDuration": 792,
+    "videoDuration": 1191,
+    "completionPercentage": 55,
+    "watchedAt": "2025-09-28T17:30:06.607Z"
+  },
+  {
+    "_id": 1760656181905,
+    "userId": "1760656180804",
+    "videoId": 1760656180816,
+    "youtubeVideoId": "9hMC7NA0yMw",
+    "watchDuration": 602,
+    "videoDuration": 796,
+    "completionPercentage": 24,
+    "watchedAt": "2025-10-07T07:18:46.862Z"
+  },
+  {
+    "_id": 1760656182005,
+    "userId": "1760656180804",
+    "videoId": 1760656180817,
+    "youtubeVideoId": "_oTgwjM6mBU",
+    "watchDuration": 565,
+    "videoDuration": 818,
+    "completionPercentage": 49,
+    "watchedAt": "2025-10-01T12:49:10.450Z"
+  },
+  {
+    "_id": 1760656182105,
+    "userId": "1760656180804",
+    "videoId": 1760656180818,
+    "youtubeVideoId": "m-B4xjechhY",
+    "watchDuration": 146,
+    "videoDuration": 151,
+    "completionPercentage": 32,
+    "watchedAt": "2025-10-07T08:51:04.188Z"
+  },
+  {
+    "_id": 1760656182205,
+    "userId": "1760656180804",
+    "videoId": 1760656180819,
+    "youtubeVideoId": "-VMAFpBvJ5k",
+    "watchDuration": 104,
+    "videoDuration": 247,
+    "completionPercentage": 62,
+    "watchedAt": "2025-10-12T06:19:20.017Z"
+  },
+  {
+    "_id": 1760656182305,
+    "userId": "1760656180804",
+    "videoId": 1760656180820,
+    "youtubeVideoId": "7bUFBpgE7n0",
+    "watchDuration": 332,
+    "videoDuration": 470,
+    "completionPercentage": 37,
+    "watchedAt": "2025-10-10T12:58:42.712Z"
+  },
+  {
+    "_id": 1760656182405,
+    "userId": "1760656180804",
+    "videoId": 1760656180821,
+    "youtubeVideoId": "K9R7KcaettM",
+    "watchDuration": 488,
+    "videoDuration": 1046,
+    "completionPercentage": 17,
+    "watchedAt": "2025-09-20T21:51:24.276Z"
+  },
+  {
+    "_id": 1760656182505,
+    "userId": "1760656180804",
+    "videoId": 1760656180822,
+    "youtubeVideoId": "rXoReWNm8Zo",
+    "watchDuration": 133,
+    "videoDuration": 231,
+    "completionPercentage": 18,
+    "watchedAt": "2025-10-09T03:43:38.839Z"
+  },
+  {
+    "_id": 1760656182605,
+    "userId": "1760656180804",
+    "videoId": 1760656180823,
+    "youtubeVideoId": "bzSn6AKLkMI",
+    "watchDuration": 30,
+    "videoDuration": 1652,
+    "completionPercentage": 11,
+    "watchedAt": "2025-10-01T14:10:40.746Z"
+  },
+  {
+    "_id": 1760656182705,
+    "userId": "1760656180804",
+    "videoId": 1760656180824,
+    "youtubeVideoId": "SiKfBBoF51w",
+    "watchDuration": 489,
+    "videoDuration": 929,
+    "completionPercentage": 5,
+    "watchedAt": "2025-09-18T01:09:46.227Z"
+  },
+  {
+    "_id": 1760656182805,
+    "userId": "1760656180804",
+    "videoId": 1760656180825,
+    "youtubeVideoId": "enidMo5izlE",
+    "watchDuration": 21,
+    "videoDuration": 264,
+    "completionPercentage": 41,
+    "watchedAt": "2025-10-07T02:40:49.259Z"
+  },
+  {
+    "_id": 1760656182905,
+    "userId": "1760656180804",
+    "videoId": 1760656180826,
+    "youtubeVideoId": "lDxw_BRqul8",
+    "watchDuration": 854,
+    "videoDuration": 904,
+    "completionPercentage": 5,
+    "watchedAt": "2025-09-27T11:04:17.690Z"
+  },
+  {
+    "_id": 1760656183005,
+    "userId": "1760656180804",
+    "videoId": 1760656180827,
+    "youtubeVideoId": "z5Y4R4KkQZ0",
+    "watchDuration": 598,
+    "videoDuration": 996,
+    "completionPercentage": 63,
+    "watchedAt": "2025-09-26T11:30:05.917Z"
+  },
+  {
+    "_id": 1760656183105,
+    "userId": "1760656180804",
+    "videoId": 1760656180828,
+    "youtubeVideoId": "_QPd7t54nRs",
+    "watchDuration": 447,
+    "videoDuration": 792,
+    "completionPercentage": 30,
+    "watchedAt": "2025-09-19T15:12:48.594Z"
+  },
+  {
+    "_id": 1760656183205,
+    "userId": "1760656180804",
+    "videoId": 1760656180829,
+    "youtubeVideoId": "UEoS3NGOwlc",
+    "watchDuration": 126,
+    "videoDuration": 200,
+    "completionPercentage": 72,
+    "watchedAt": "2025-10-13T07:35:52.418Z"
+  },
+  {
+    "_id": 1760656183305,
+    "userId": "1760656180804",
+    "videoId": 1760656180830,
+    "youtubeVideoId": "7iy8iB8tu5c",
+    "watchDuration": 1343,
+    "videoDuration": 1467,
+    "completionPercentage": 50,
+    "watchedAt": "2025-09-22T04:20:08.896Z"
+  },
+  {
+    "_id": 1760656183405,
+    "userId": "1760656180804",
+    "videoId": 1760656180831,
+    "youtubeVideoId": "yuF7Pw-_YIE",
+    "watchDuration": 429,
+    "videoDuration": 514,
+    "completionPercentage": 43,
+    "watchedAt": "2025-10-12T14:56:16.910Z"
+  },
+  {
+    "_id": 1760656183505,
+    "userId": "1760656180804",
+    "videoId": 1760656180832,
+    "youtubeVideoId": "dnDqQOYMd10",
+    "watchDuration": 778,
+    "videoDuration": 874,
+    "completionPercentage": 3,
+    "watchedAt": "2025-09-21T13:17:05.713Z"
+  },
+  {
+    "_id": 1760656183605,
+    "userId": "1760656180804",
+    "videoId": 1760656180833,
+    "youtubeVideoId": "OVPPtkyxBfQ",
+    "watchDuration": 665,
+    "videoDuration": 793,
+    "completionPercentage": 3,
+    "watchedAt": "2025-09-18T08:24:59.422Z"
+  },
+  {
+    "_id": 1760656183705,
+    "userId": "1760656180804",
+    "videoId": 1760656180834,
+    "youtubeVideoId": "bFhsGkQDImU",
+    "watchDuration": 66,
+    "videoDuration": 242,
+    "completionPercentage": 71,
+    "watchedAt": "2025-09-20T06:50:23.752Z"
+  },
+  {
+    "_id": 1760656183805,
+    "userId": "1760656180804",
+    "videoId": 1760656180835,
+    "youtubeVideoId": "c45yP87l2Cg",
+    "watchDuration": 1662,
+    "videoDuration": 1756,
+    "completionPercentage": 76,
+    "watchedAt": "2025-09-26T06:08:44.934Z"
+  },
+  {
+    "_id": 1760656183905,
+    "userId": "1760656180804",
+    "videoId": 1760656180836,
+    "youtubeVideoId": "xx5-HiSKFXg",
+    "watchDuration": 71,
+    "videoDuration": 143,
+    "completionPercentage": 93,
+    "watchedAt": "2025-10-03T16:59:33.764Z"
+  },
+  {
+    "_id": 1760656184005,
+    "userId": "1760656180804",
+    "videoId": 1760656180837,
+    "youtubeVideoId": "ZJa5b7JvNSA",
+    "watchDuration": 253,
+    "videoDuration": 1397,
+    "completionPercentage": 37,
+    "watchedAt": "2025-09-17T09:09:45.396Z"
+  },
+  {
+    "_id": 1760656184105,
+    "userId": "1760656180804",
+    "videoId": 1760656180838,
+    "youtubeVideoId": "_cv5fnIFoxw",
+    "watchDuration": 582,
+    "videoDuration": 1646,
+    "completionPercentage": 27,
+    "watchedAt": "2025-10-05T18:01:31.025Z"
+  },
+  {
+    "_id": 1760656184205,
+    "userId": "1760656180804",
+    "videoId": 1760656180839,
+    "youtubeVideoId": "EolJLwHbnCE",
+    "watchDuration": 1210,
+    "videoDuration": 1424,
+    "completionPercentage": 49,
+    "watchedAt": "2025-10-04T14:57:05.985Z"
+  },
+  {
+    "_id": 1760656184305,
+    "userId": "1760656180804",
+    "videoId": 1760656180840,
+    "youtubeVideoId": "eYR5BSg7Gw0",
+    "watchDuration": 1284,
+    "videoDuration": 1605,
+    "completionPercentage": 98,
+    "watchedAt": "2025-09-21T23:23:39.644Z"
+  },
+  {
+    "_id": 1760656184405,
+    "userId": "1760656180804",
+    "videoId": 1760656180841,
+    "youtubeVideoId": "ID0lkIQSDlY",
+    "watchDuration": 516,
+    "videoDuration": 537,
+    "completionPercentage": 40,
+    "watchedAt": "2025-09-24T12:22:05.788Z"
+  },
+  {
+    "_id": 1760656184505,
+    "userId": "1760656180804",
+    "videoId": 1760656180842,
+    "youtubeVideoId": "w4Ds6Tpsba4",
+    "watchDuration": 24,
+    "videoDuration": 899,
+    "completionPercentage": 19,
+    "watchedAt": "2025-09-18T01:50:50.035Z"
+  },
+  {
+    "_id": 1760656184605,
+    "userId": "1760656180804",
+    "videoId": 1760656180843,
+    "youtubeVideoId": "NZ--kGV5BTQ",
+    "watchDuration": 182,
+    "videoDuration": 515,
+    "completionPercentage": 86,
+    "watchedAt": "2025-10-14T07:07:32.719Z"
+  },
+  {
+    "_id": 1760656184705,
+    "userId": "1760656180804",
+    "videoId": 1760656180844,
+    "youtubeVideoId": "wniM7sU0bmU",
+    "watchDuration": 472,
+    "videoDuration": 1139,
+    "completionPercentage": 63,
+    "watchedAt": "2025-09-27T10:21:04.789Z"
+  },
+  {
+    "_id": 1760656184805,
+    "userId": "1760656180804",
+    "videoId": 1760656180845,
+    "youtubeVideoId": "8qQMx9eXK0w",
+    "watchDuration": 1045,
+    "videoDuration": 1400,
+    "completionPercentage": 43,
+    "watchedAt": "2025-09-21T17:22:18.955Z"
+  },
+  {
+    "_id": 1760656184905,
+    "userId": "1760656180804",
+    "videoId": 1760656180846,
+    "youtubeVideoId": "9-qdZHHUUX0",
+    "watchDuration": 293,
+    "videoDuration": 1290,
+    "completionPercentage": 68,
+    "watchedAt": "2025-09-25T14:55:49.688Z"
+  },
+  {
+    "_id": 1760656185005,
+    "userId": "1760656180804",
+    "videoId": 1760656180847,
+    "youtubeVideoId": "Pv0gcBKuHXQ",
+    "watchDuration": 100,
+    "videoDuration": 381,
+    "completionPercentage": 4,
+    "watchedAt": "2025-09-25T08:06:30.132Z"
+  },
+  {
+    "_id": 1760656185105,
+    "userId": "1760656180804",
+    "videoId": 1760656180848,
+    "youtubeVideoId": "p4hq3TfaCsQ",
+    "watchDuration": 16,
+    "videoDuration": 88,
+    "completionPercentage": 18,
+    "watchedAt": "2025-10-05T10:35:03.332Z"
+  },
+  {
+    "_id": 1760656185205,
+    "userId": "1760656180804",
+    "videoId": 1760656180849,
+    "youtubeVideoId": "B4607wwaylc",
+    "watchDuration": 471,
+    "videoDuration": 613,
+    "completionPercentage": 2,
+    "watchedAt": "2025-10-12T21:29:47.684Z"
+  },
+  {
+    "_id": 1760656185305,
+    "userId": "1760656180804",
+    "videoId": 1760656180850,
+    "youtubeVideoId": "b6XxDDhCdDM",
+    "watchDuration": 392,
+    "videoDuration": 979,
+    "completionPercentage": 65,
+    "watchedAt": "2025-09-25T23:44:06.133Z"
+  },
+  {
+    "_id": 1760656185405,
+    "userId": "1760656180804",
+    "videoId": 1760656180851,
+    "youtubeVideoId": "qzKIAzN6bFQ",
+    "watchDuration": 541,
+    "videoDuration": 732,
+    "completionPercentage": 39,
+    "watchedAt": "2025-09-26T17:46:17.091Z"
+  },
+  {
+    "_id": 1760656185505,
+    "userId": "1760656180804",
+    "videoId": 1760656180852,
+    "youtubeVideoId": "mmziSSQYtkk",
+    "watchDuration": 87,
+    "videoDuration": 165,
+    "completionPercentage": 46,
+    "watchedAt": "2025-10-07T16:48:12.227Z"
+  },
+  {
+    "_id": 1760656185605,
+    "userId": "1760656180804",
+    "videoId": 1760656180853,
+    "youtubeVideoId": "UP7YKzLeGq0",
+    "watchDuration": 1197,
+    "videoDuration": 1265,
+    "completionPercentage": 35,
+    "watchedAt": "2025-09-28T05:27:58.889Z"
+  },
+  {
+    "_id": 1760656185705,
+    "userId": "1760656180804",
+    "videoId": 1760656180854,
+    "youtubeVideoId": "rcf_uQgzIJ4",
+    "watchDuration": 393,
+    "videoDuration": 1374,
+    "completionPercentage": 70,
+    "watchedAt": "2025-09-22T12:59:46.515Z"
+  }
+]
